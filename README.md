@@ -21,3 +21,5 @@ Co-authored with [Gemini Code Assist](https://cloud.google.com/products/gemini/c
 Co-authored with [Perplexity](https://www.perplexity.ai) (Perplexity AI).
 
 Co-authored with [Kiro](https://kiro.dev) (Amazon Web Services).
+
+Co-authored with [Jules](https://jules.google) (Google).
