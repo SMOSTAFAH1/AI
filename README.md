@@ -19,3 +19,5 @@ Co-authored with [Gemini CLI](https://ai.google.dev) (Google).
 Co-authored with [Gemini Code Assist](https://cloud.google.com/products/gemini/code-assist) (Google).
 
 Co-authored with [Perplexity](https://www.perplexity.ai) (Perplexity AI).
+
+Co-authored with [Kiro](https://kiro.dev) (Amazon Web Services).
