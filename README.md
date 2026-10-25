@@ -15,3 +15,5 @@ Co-authored with [Kimi](https://www.kimi.com) (Moonshot AI).
 Co-authored with [CodeRabbit](https://coderabbit.ai) (CodeRabbit Inc.).
 
 Co-authored with [Gemini CLI](https://ai.google.dev) (Google).
+
+Co-authored with [Gemini Code Assist](https://cloud.google.com/products/gemini/code-assist) (Google).
