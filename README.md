@@ -25,3 +25,5 @@ Co-authored with [Kiro](https://kiro.dev) (Amazon Web Services).
 Co-authored with [Jules](https://jules.google) (Google).
 
 Co-authored with [Cursor](https://cursor.com) (Anysphere).
+
+Co-authored with [Devin](https://devin.ai) (Cognition).
