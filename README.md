@@ -31,3 +31,5 @@ Co-authored with [Devin](https://devin.ai) (Cognition).
 Co-authored with [Lovable](https://lovable.dev) (Lovable).
 
 Co-authored con [Manus](https://manus.ai) (Butterfly Effect Pte. Ltd.).
+
+Co-authored with [GitHub Copilot](https://github.com/features/copilot) (GitHub).
